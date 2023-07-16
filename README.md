@@ -12,7 +12,7 @@
       |__/  \______/  \______/    \___/   \______/ |_______/  \_______/      |_______/ |________/    
 ```
 
-A simple and easy way to download youtube videos for personal use.
+A simple utility to download youtube videos for personal use.
 
 # Features
 
@@ -41,8 +41,9 @@ A simple and easy way to download youtube videos for personal use.
 python ytdl.py
 ```
 - You can directly run the python file which is the portable file for the logic 
-- This will directly run this window 
-// image here 
+- This will directly run this window
+  
+   ![image](https://github.com/tanaybhomia/YouTubeDl/assets/71910027/cb5fb8c1-61b7-48d8-be20-82e1cf01f1a1) 
 
 ### Installing the utility system wide using the Installer script (Recommended)
 
@@ -51,17 +52,14 @@ python create_executable.py
 ```
 - Creates a ```Youtube_Downloads``` folder in your Downloads directory
 - Add the Path Environment variable automatically 
-- Create executable file which you can run system wide 
-
-// image here 
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+- Create executable file which you can run system wide
+- This is how the program should look after installing the utility
+  
+   ![image](https://github.com/tanaybhomia/YouTubeDl/assets/71910027/96fb6565-90a7-4d41-8209-6ce30d03e0ce)
 
 ## Demo
 
-// upload the video 
-
+![demo](https://github.com/tanaybhomia/YouTubeDl/assets/71910027/3a77ad85-39b4-43a7-a144-dd0eb2d93475)
 
 ## Technolgies and Libraries
 

@@ -37,7 +37,7 @@ A simple utility to download youtube videos for personal use.
 ## Installing 
 
 ### Directly from the File
-``` bash
+```bash
 python ytdl.py
 ```
 - You can directly run the python file which is the portable file for the logic 
@@ -50,6 +50,7 @@ python ytdl.py
 ```bash
 python create_executable.py
 ```
+
 - Creates a ```Youtube_Downloads``` folder in your Downloads directory
 - Add the Path Environment variable automatically 
 - Create executable file which you can run system wide
@@ -59,7 +60,7 @@ python create_executable.py
 
 ## Demo
 
-![demo](https://github.com/tanaybhomia/YouTubeDl/assets/71910027/3a77ad85-39b4-43a7-a144-dd0eb2d93475)
+   ![demo](https://github.com/tanaybhomia/YouTubeDl/assets/71910027/3a77ad85-39b4-43a7-a144-dd0eb2d93475)
 
 ## Technolgies and Libraries
 

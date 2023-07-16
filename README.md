@@ -43,7 +43,7 @@ python ytdl.py
 - You can directly run the python file which is the portable file for the logic 
 - This will directly run this window
   
-   ![image](https://github.com/tanaybhomia/YouTubeDl/assets/71910027/cb5fb8c1-61b7-48d8-be20-82e1cf01f1a1) 
+   ![Screenshot 2023-07-16 183324](https://github.com/tanaybhomia/YouTubeDl/assets/71910027/1c2240b9-045e-42c5-bc2d-ea044f085867)
 
 ### Installing the utility system wide using the Installer script (Recommended)
 
@@ -56,11 +56,14 @@ python create_executable.py
 - Create executable file which you can run system wide
 - This is how the program should look after installing the utility
   
-   ![image](https://github.com/tanaybhomia/YouTubeDl/assets/71910027/96fb6565-90a7-4d41-8209-6ce30d03e0ce)
+   ![Screenshot 2023-07-16 183940](https://github.com/tanaybhomia/YouTubeDl/assets/71910027/0ad68ad0-b62d-4962-9470-fa7a789d96bd)
+
 
 ## Demo
+- Displays how the utility works 
 
-   ![demo](https://github.com/tanaybhomia/YouTubeDl/assets/71910027/3a77ad85-39b4-43a7-a144-dd0eb2d93475)
+   ![demo](https://github.com/tanaybhomia/YouTubeDl/assets/71910027/e8133897-132a-497e-9bde-c0cece6ddcde)
+
 
 ## Technolgies and Libraries
 

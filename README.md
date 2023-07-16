@@ -45,6 +45,8 @@ python ytdl.py
   
    ![Screenshot 2023-07-16 183324](https://github.com/tanaybhomia/YouTubeDl/assets/71910027/1c2240b9-045e-42c5-bc2d-ea044f085867)
 
+
+
 ### Installing the utility system wide using the Installer script (Recommended)
 
 ```bash

@@ -58,7 +58,6 @@ python create_executable.py
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
-
 ## Demo
 
 // upload the video 

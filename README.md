@@ -22,7 +22,7 @@ A simple utility to download youtube videos for personal use.
 
 # Installation
 
-## Pre-Requesties 
+### Pre-Requesties 
 - Make sure you have Python 3.6 or higher installed on your system.
 - Install the youtube-dl package using pip:
 
@@ -30,13 +30,13 @@ A simple utility to download youtube videos for personal use.
     pip install youtube-dl
     ```
 
-## Cloning
+### Cloning
 - Clone the Repository using the ``` git clone ``` to the directory that you want.
 - ```cd``` to the cloned folder 
 
-## Installing 
+### Installing 
 
-### Directly from the File
+#### Directly from the File
 ```bash
 python ytdl.py
 ```
@@ -47,7 +47,7 @@ python ytdl.py
 
 
 
-### Installing the utility system wide using the Installer script (Recommended)
+#### Installing the utility system wide using the Installer script (Recommended)
 
 ```bash
 python create_executable.py
@@ -61,13 +61,13 @@ python create_executable.py
    ![Screenshot 2023-07-16 183940](https://github.com/tanaybhomia/YouTubeDl/assets/71910027/0ad68ad0-b62d-4962-9470-fa7a789d96bd)
 
 
-## Demo
+# Demo
 - Displays how the utility works 
 
    ![demo](https://github.com/tanaybhomia/YouTubeDl/assets/71910027/e8133897-132a-497e-9bde-c0cece6ddcde)
 
 
-## Technolgies and Libraries
+# Technolgies and Libraries
 
 - os 
 - requests 
@@ -79,7 +79,7 @@ python create_executable.py
 - shutil 
 - subprocess
 
-## Acknowledgements
+# Acknowledgements
 
  - [Chatgpt](https://chat.openai.com/) (For the Installation script)
  - [Readme.so](https://readme.so/)

@@ -27,7 +27,10 @@ A simple utility to download youtube videos for personal use.
 - Install the youtube-dl package using pip:
 
     ```bash
-    pip install youtube-dl
+    pip install pytube
+    ```
+    ```bash
+    pip install tqdm
     ```
 
 ### Cloning
